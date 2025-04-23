@@ -1,0 +1,5 @@
+{
+  "android_version_code": "25",
+  "force_update": "0",
+  "apk_url": "http://global-cdn-fast-secure-44544.bunycdn.com/admin/apk/73532.apk"
+}
