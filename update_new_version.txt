@@ -1,5 +1,1 @@
-{
-  "android_version_code": "48",
-  "force_update": "0",
-  "apk_url": "http://global-cdn-fast-secure-44544.bunycdn.com/admin/apk/73532.apk"
-}
+ewogICJhbmRyb2lkX3ZlcnNpb25fY29kZSI6ICI0OCIsCiAgImZvcmNlX3VwZGF0ZSI6ICIwIiwKICAiYXBrX3VybCI6ICJodHRwOi8vZ2xvYmFsLWNkbi1mYXN0LXNlY3VyZS00NDU0NC5idW55Y2RuLmNvbS9hZG1pbi9hcGsvNzM1MzIuYXBrIgp9
